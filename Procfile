@@ -1,1 +1,1 @@
-worker: python auto_self_check.py
+worker: discord_bot.py
